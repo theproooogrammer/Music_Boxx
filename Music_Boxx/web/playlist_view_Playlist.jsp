@@ -20,6 +20,7 @@
 	}
         String name = request.getParameter("username");
 		
+        //ISSUE here after deleting all the songs from playlist the playlist also gets deleted
 %>
                        
 <%
