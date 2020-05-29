@@ -101,8 +101,10 @@ try{
         result_listenlater_viewlist1=userAction.listen_later_songs(username);
              
         while(result_listenlater_viewlist1.next()){
+            
             String sname=result_listenlater_viewlist1.getString("sname");
             result_listenlater_viewlist2=userAction.song_path(sname);
+            
             while(result_listenlater_viewlist2.next()){
                 String path=result_listenlater_viewlist2.getString("spath");     
             

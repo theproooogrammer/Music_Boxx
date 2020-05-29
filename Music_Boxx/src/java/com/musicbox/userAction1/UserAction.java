@@ -38,7 +38,7 @@ public class UserAction {
         }
     
     public ResultSet playlist_songs(String pname,String username){
-             sql="select songname from playlist where pname='"+pname+"' AND username='"+username+"'";
+             sql="select distinct songname from playlist where pname='"+pname+"' AND username='"+username+"'";
             try{
                 PreparedStatement ps=con.prepareStatement(sql);
                 rs=ps.executeQuery();
@@ -100,7 +100,7 @@ public class UserAction {
         }
            
         public ResultSet listen_later_songs(String username){
-             sql="select sname from listenlater where username='" +username+ "'";
+             sql="select distinct sname from listenlater where username='" +username+ "'";
             try{
                 PreparedStatement ps=con.prepareStatement(sql);
                 rs=ps.executeQuery();

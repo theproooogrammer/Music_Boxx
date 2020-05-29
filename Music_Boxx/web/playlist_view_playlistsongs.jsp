@@ -103,18 +103,19 @@
 <%
         //SELECTED PLAYLIST NAME
         String pname=null;
-        pname=request.getParameter("playn");
+        
         try{
             
             if(pname==null){
-               pname=(String)session.getAttribute("playlistname");
+               pname=request.getParameter("playn");
             }
-        
+        pname=(String)session.getAttribute("playlistname");
         session.setAttribute("playlistname", pname);
         String username =(String)session.getAttribute("username");
         
         
         UserAction actionplaylist=new UserAction();
+        //Same problem arise when song conating 2 artist is added to playlist
         ResultSet result_playlist_view_playlistsongs1 =actionplaylist.playlist_songs(pname,username);
         ResultSet result_playlist_view_playlistsongs2=null;
         
