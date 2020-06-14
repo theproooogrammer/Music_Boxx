@@ -33,6 +33,7 @@ try{
                 System.out.println(spath);
                 action.song_insert(sname, sartist,arpath, salbum,alpath, sgenre,grpath,spath);
                 System.out.println("successfuly inserted");
+                System.out.println("successfuly inserted");
                 response.sendRedirect("addsongUI.jsp");
 
 }
