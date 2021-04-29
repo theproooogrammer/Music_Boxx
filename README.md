@@ -25,11 +25,11 @@
 ***Choosing Song Ao Add->Create New Playlist or Add Song To Existing Playlist->On Navigation Bar My Music->Playlist-To access Playlist Song***
 
 
- Choosing Song to Add:
+ Choosing Song to Add.
 
 ![Screenshot (361)](https://user-images.githubusercontent.com/60536632/116521892-2a4a5a80-a8f2-11eb-90e0-08c6e101a92b.png)
 
- Create New Playlist or Add Song To Existing Playlist
+ Create New Playlist or Add Song To Existing Playlist.
 
 ![Screenshot (363)](https://user-images.githubusercontent.com/60536632/116522376-c2484400-a8f2-11eb-8f15-d8ada8f35480.png)
 
