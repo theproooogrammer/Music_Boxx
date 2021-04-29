@@ -16,7 +16,7 @@
 
 ![Screenshot (353)](https://user-images.githubusercontent.com/60536632/116521537-b7d97a80-a8f1-11eb-8534-29593ee0aab2.png)
 
-## Song Play Interface
+## Song Play Interface :
 
 ![Screenshot (360)](https://user-images.githubusercontent.com/60536632/116521687-ea837300-a8f1-11eb-8c7d-022d4336ff7e.png)
 
@@ -25,15 +25,15 @@
 ***Choosing Song Ao Add->Create New Playlist or Add Song To Existing Playlist->On Navigation Bar My Music->Playlist-To access Playlist Song***
 
 
-###### Choosing Song to Add:\
+###### Choosing Song to Add:
 
 ![Screenshot (361)](https://user-images.githubusercontent.com/60536632/116521892-2a4a5a80-a8f2-11eb-90e0-08c6e101a92b.png)
 
-###### Create New Playlist or Add Song To Existing Playlist\
+###### Create New Playlist or Add Song To Existing Playlist
 
 ![Screenshot (363)](https://user-images.githubusercontent.com/60536632/116522376-c2484400-a8f2-11eb-8f15-d8ada8f35480.png)
 
-###### On Navigation Bar My Music->Playlist-To access Playlist Song.\
+###### On Navigation Bar My Music->Playlist-To access Playlist Song.
 
 ![Screenshot (364)](https://user-images.githubusercontent.com/60536632/116522437-d429e700-a8f2-11eb-8487-52408f4e4801.png)
 ![Screenshot (365)](https://user-images.githubusercontent.com/60536632/116522527-eb68d480-a8f2-11eb-8820-7d3b7f466bbe.png)
@@ -57,11 +57,11 @@
 
 ![Screenshot (372)](https://user-images.githubusercontent.com/60536632/116523396-cfb1fe00-a8f3-11eb-9f21-886b6ea2d6d4.png)
 
-***Similar Song Recommendation:***\
+***Similar Song Recommendation:***
 
-Song 1 And Song 2 Are Songs From Same Album Of The Song Searched.\
-Song 3 is Of Same Artist Of The Song Searched.\
-SOng 4 is OF Same Genre Of The Song Searched.\
+Song 1 And Song 2 Are Songs From Same Album Of The Song Searched.
+Song 3 is Of Same Artist Of The Song Searched.
+SOng 4 is OF Same Genre Of The Song Searched.
 
 
 ![Screenshot (374)](https://user-images.githubusercontent.com/60536632/116524060-9037e180-a8f4-11eb-902b-84e7e819241d.png)
