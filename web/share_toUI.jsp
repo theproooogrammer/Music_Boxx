@@ -32,13 +32,8 @@
         String name = request.getParameter("username");
 
     %>
-
-
-
-
     <html>
         <head>
-
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <meta name="description" content="">
@@ -88,7 +83,6 @@
             }
 
         </style>
-
     </head>
     <body>
         <div class="container">
@@ -161,13 +155,8 @@
                                 <h5><td><%=result_share_toUI.getString("songname")%></td></h5>
                                 </tr>             
                                 <%
-
                                     }
-
-
                                 %>
-
-
                             </table>
                         </div>
                     </div>
@@ -175,7 +164,8 @@
             </div>
         </div>
     </div>
-    <%                     } catch (Exception e) {
+    <%                    } catch (Exception e) {
+            System.out.println("share_toUI Exception" + e);
         }
     %>  
 </body>

@@ -140,6 +140,7 @@
                 ps_playlist_view_Playlist.close();
                 result_playlist_view_Playlist.close();
             } catch (Exception e) {
+            System.out.println("playlist_view_Playlist Exception" + e);
             }
         %>         
     </body>

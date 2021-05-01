@@ -146,7 +146,7 @@
                                 result_playlist_view_playlistsongs1.close();
                                 result_playlist_view_playlistsongs2.close();
                             } catch (Exception e) {
-
+                                System.out.println("playlist_view_playlistsongs Exception" + e);
                             }
 
                         %>
